@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # import dataset
-dataset = pd.read_csv("c.csv")
+dataset = pd.read_csv("c.csv")              # in "c.csv"  , c is the file name and csv is the file type
 x = dataset.iloc[:, :].values
 #output: x = array([[ 15,  39],
 #       [ 15,  81],
