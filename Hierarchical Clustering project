@@ -57,3 +57,6 @@ plt.legend()
 plt.show()
 
 # output: Clusters of customers graph
+
+#--------------------------------E N D    O F     T H E     C O D E-------------------------------------------------------------
+# The test file on which I performed the Hierarchical Clustering, is present in the description
